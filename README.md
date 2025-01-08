@@ -8,4 +8,4 @@
 
 
 
-![GIF](https://github.com/lluanamendes/Calculadora-simples-de-Juros/raw/main/ezgif.com-animated-gif-maker.gif)
+![GIF](https://github.com/lluanamendes/Calculadora-de-Juros-Simples-Javascript/blob/main/ezgif.com-animated-gif-maker.gif?raw=true)
