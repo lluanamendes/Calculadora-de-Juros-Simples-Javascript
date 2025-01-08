@@ -18,11 +18,3 @@ if(valor>0){
 else{
     console.log("para que seja calulado o juros para pagamento é necessario um valor maior do zero.")
 }
-
-//let dias =dados.question("Informe quantos dias se passaram desde o vencimento do boleto:\n");
-//let juros=(dias>=15)? 0.10 : 0.05;
-//juros=(dias==0) && 0;
-//console.log("Valor original da dívida:"+valor);
-//console.log("Dias de atraso:"+dias);
-//console.log("Taxa de Juros:"+(juros*100)+"%");
-//console.log("Valor final: R$"+(Number(valor)+(valor*juros)));
